@@ -1,0 +1,22 @@
+# 데이터 (외부 공유 금지)
+data/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+# 노트북에서 확장자 없이 저장되는 중간 산출물
+찐최종_마스터_테이블
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 인증 정보 / 키 파일
+*credential*.json
+*credentials*.json
+*service_account*.json
+*service-account*.json
+client_secret*.json
+*-key.json
+*_key.json
+token.json
+.env

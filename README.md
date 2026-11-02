@@ -4,7 +4,7 @@
 
 - 📄 [분석 보고서 (PDF)](reports/report.pdf) · 📊 [발표자료 (PDF)](reports/presentation.pdf) · 📓 [분석 노트북](notebooks/shared_office_trial_conversion_analysis.ipynb)
 - **기간**: 2026.09.11 – 2026.09.29
-- **인원**: 팀 5인 (클래스 불균형팀: 곽수연, 김채현, 박고은, 송용진, 신예원)
+- **인원**: 팀 5인
 - **도구**: Python (pandas, scikit-learn, XGBoost, LightGBM)
 
 ## 문제 정의
